@@ -14,3 +14,7 @@ body{
 .bg-dark {
     background-color: #000!important;
 }
+
+a.btn:hover i {
+    color: rgb(17, 218, 214);
+}
