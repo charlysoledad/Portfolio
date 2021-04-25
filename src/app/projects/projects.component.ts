@@ -66,6 +66,13 @@ export class ProjectComponent implements OnInit {
       url: 'https://chsd-presupuesto.netlify.app/'
     },
     {
+      name: 'Short URL', 
+      img: 'https://d33wubrfki0l68.cloudfront.net/6085e71fe2f9ab7c1584c186/screenshot_2021-04-25-22-03-12-0000.png',  
+      description: "This app provides you to short an url", 
+      date: '25/04/2021', 
+      url: 'https://chsd-shorturl.netlify.app/'
+    },
+    {
       name: 'Tareas', 
       img: 'https://d33wubrfki0l68.cloudfront.net/607cf2404a11f6cc0b1001af/screenshot_2021-04-19-03-00-17-0000.png',  
       description: "Record to-do tasks", 
