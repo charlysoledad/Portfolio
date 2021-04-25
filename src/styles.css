@@ -1,10 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     font-family: 'Roboto', sans-serif;
-    background: url('./assets/background.png');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: #D3CCE3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .text-justify{
@@ -12,5 +12,5 @@ body{
 }
 
 .bg-dark {
-    background-color: #000;
+    background-color: #000!important;
 }
