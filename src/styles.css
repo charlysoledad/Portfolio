@@ -10,3 +10,7 @@ body{
 .text-justify{
     text-align: justify;
 }
+
+.bg-dark {
+    background-color: #000;
+}
