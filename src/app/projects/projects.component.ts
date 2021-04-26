@@ -79,6 +79,13 @@ export class ProjectComponent implements OnInit {
       date: '18/04/2021', 
       url: 'https://chsd-tareas.netlify.app/'
     },
+    {
+      name: 'Noticias', 
+      img: 'https://d33wubrfki0l68.cloudfront.net/608664683762c25146b35524/screenshot_2021-04-26-06-57-45-0000.png',
+      description: "Portal to view news", 
+      date: '26/04/2021', 
+      url: 'https://chsd-noticias.netlify.app/'
+    },
   ]
 
   constructor() { }
